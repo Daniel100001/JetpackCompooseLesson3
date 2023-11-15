@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetpackCompooseLesson3</string>
+    <string name="date">%1s - %2s %3s %4s</string>
+</resources>
